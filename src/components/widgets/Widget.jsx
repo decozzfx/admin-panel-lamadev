@@ -1,4 +1,4 @@
-import { AccountBalanceOutlined, AccountBalanceWalletOutlined, KeyboardArrowUp, MonetizationOnOutlined, PersonOutlined, ShoppingCartOutlined } from '@material-ui/icons'
+import { AccountBalanceWalletOutlined, KeyboardArrowUp, MonetizationOnOutlined, PersonOutlined, ShoppingCartOutlined } from '@material-ui/icons'
 import React from 'react'
 import './widget.scss'
 

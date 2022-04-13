@@ -1,5 +1,5 @@
 import React from 'react'
-import { Keyboard, KeyboardArrowDown, KeyboardArrowUp, MoreVert } from '@material-ui/icons'
+import { KeyboardArrowDown, KeyboardArrowUp, MoreVert } from '@material-ui/icons'
 
 import { CircularProgressbar } from 'react-circular-progressbar'
 import 'react-circular-progressbar/dist/styles.css'
